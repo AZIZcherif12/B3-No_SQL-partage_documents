@@ -1,0 +1,9 @@
+Nous allons développer une API REST pour une application de partage de fichiers simple.
+Installation
+
+
+# Installation
+
+ npm install
+
+# Configuration
